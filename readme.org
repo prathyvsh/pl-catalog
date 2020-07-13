@@ -103,8 +103,11 @@ Cone is a fast, fit, friendly, and safe systems programming language.
 ** [[https://github.com/wu-lang/wu][Wu]]
 An expression oriented, gradually typed and mission-critical programming language.
 
-** [[https://github.com/c3d/xl]XL]]
+** [[https://github.com/c3d/xl][XL]]
 A super-flexible language based entirely on tree rewrites
+
+** [[https://github.com/chessai/theseus][Theseus]]
+Functional programming language with fully reversible computation
 
 ** [[https://github.com/ditto/ditto][Ditto]]
 A Super Kawaii Dependently Typed Programming Language
