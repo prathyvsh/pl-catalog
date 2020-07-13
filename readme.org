@@ -79,6 +79,39 @@ Factor is a concatenative, stack-based programming language with high-level feat
 ** [[https://github.com/evincarofautumn/kitten][Kitten]]
 A statically typed concatenative systems programming language.
 
+** [[https://github.com/CakeML/cakeml][CakeML]]
+A Verified Implementation of ML
+
+** [[https://github.com/zeroflag/punyforth][PunyForth]]
+Forth inspired programming language for the ESP8266
+
+** [[https://github.com/cedille/cedille][Cedille]]
+Cedille, a dependently typed programming languages based on the Calculus of Dependent Lambda Eliminations
+
+** [[https://github.com/rntz/datafun][DataFun]]
+Research on integrating datalog & lambda calculus via monotonicity types
+
+** [[https://github.com/jondgoodwin/cone][Cone]]
+Cone is a fast, fit, friendly, and safe systems programming language.
+
+** [[https://github.com/wu-lang/wu][Wu]]
+An expression oriented, gradually typed and mission-critical programming language.
+
+** [[https://github.com/c3d/xl]XL]]
+A super-flexible language based entirely on tree rewrites
+
+** [[https://github.com/ditto/ditto][Ditto]]
+A Super Kawaii Dependently Typed Programming Language
+
+** [[https://github.com/finkel-lang/finkel][Finkel]]
+Finkel is a statically typed, purely functional, non-strict-by-default dialect of the Lisp programming language. Or in other words, Haskell in S-expression.
+
+** [[https://github.com/ffwff/hana][Hana]]
+A small dynamically-typed scripting language written in Rust/C and is inspired by Pascal, Ruby and Javascript.
+
+** [[https://github.com/PlasmaLang/plasma][Plasma]]
+A statically typed, side-effect free single assignment language and will have functional programming and concurrent programming features.
+
 * Environments
 
 ** [[https://github.com/jamii/imp][Imp]]
