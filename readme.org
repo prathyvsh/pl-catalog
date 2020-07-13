@@ -52,6 +52,19 @@ A static, type inferred and embeddable language written in Rust.
 ** [[https://github.com/gleam-lang/gleam][Gleam]]
 A statically typed language for the Erlang VM
 
+** [[https://github.com/astrolang/astro][Astro]]
+A fun safe language for rapid prototyping and high performance applications
+
+** [[https://github.com/felix-lang/felix][Felix]]
+An advanced, statically typed, high performance scripting language with native C++ embedding.
+*** [[https://github.com/wyvernlang/wyvern][Wyvern]]Wyvern is a new general-purpose programming language designed to support adaptation and assurance.
+
+** [[https://github.com/slovnicki/pLam][pLam]]
+An interpreter for learning and exploring pure λ-calculus
+
+** [[https://github.com/topshell-language/topshell][TopShell]]
+Purely functional, reactive scripting language
+
 ** [[https://github.com/FStarLang/FStar][FStar]]
 Verification system for effectful programs
 
