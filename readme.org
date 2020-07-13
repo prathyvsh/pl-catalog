@@ -31,6 +31,12 @@ An efficient implementation of the higher-order logic programming language Lambd
 ** [[https://github.com/opencypher/][Open Cypher]]
 A declarative property graph query language
 
+** [[https://github.com/ballesta25/Morpheus][Morpheus]]
+A stack-based programming language with derivational morphemes 
+
+** [[https://github.com/koka-lang/koka][Koka]]
+Koka: a function-oriented language with effect inference
+
 * Environments
 
 ** [[https://github.com/jamii/imp][Imp]]
