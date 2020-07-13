@@ -37,6 +37,12 @@ A stack-based programming language with derivational morphemes
 ** [[https://github.com/koka-lang/koka][Koka]]
 Koka: a function-oriented language with effect inference
 
+** [[https://github.com/red/red][Red]]
+Red is a new programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting, while providing modern support for concurrency and multi-core CPUs.
+
+** [[https://github.com/marcobambini/gravity][Gravity]]
+Gravity is a powerful, dynamically typed, lightweight, embeddable programming language written in C without any external dependencies (except for stdlib). It is a class-based concurrent scripting language with modern Swift-like syntax.
+
 * Environments
 
 ** [[https://github.com/jamii/imp][Imp]]
