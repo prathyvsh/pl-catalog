@@ -28,7 +28,7 @@ An efficient implementation of the higher-order logic programming language Lambd
 
 ** [[https://github.com/pikelet-lang/pikelet/][Pikelet]]
 
-** [[][https://github.com/opencypher/]]
+** [[https://github.com/opencypher/][Open Cypher]]
 A declarative property graph query language
 
 * Environments
