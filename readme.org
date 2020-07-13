@@ -1,0 +1,42 @@
+
+* Languages
+
+** [[https://github.com/mukul-rathi/bolt][Bolt]]
+Bolt is a language with in-built data-race freedom! 
+
+** [[https://github.com/souffle-lang/souffle][Souffle]]
+Soufflé is a variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthesizes a native parallel C++ program from a logic specification. 
+
+** [[https://github.com/catseye/Mascarpone][Mascarpone]]
+Mascarpone is a self-modifying programming language in the style of Emmental.
+
+** [[https://github.com/samrushing/irken-compiler][Irken]]
+Irken is a strongly typed, compiled language with a lisp-like syntax extensible with macros.
+It uses type inference along with a powerful type system to give you the speed of a compiled language with high-level data types and a higher degree of safety than languages like C/C++.
+
+** [[https://github.com/urweb/urweb][Ur/Web]]
+Ur is a programming language in the tradition of ML and Haskell, but featuring a significantly richer type system. Ur is functional, pure, statically typed, and strict. Ur supports a powerful kind of metaprogramming based on row types.
+
+** [[https://github.com/darklang/][Dark]]
+Dark, a combined language, editor, and infrastructure to make it easy to build backends.
+
+* Environments
+
+** [[https://github.com/jamii/imp][Imp]]
+Relational Programming Environment
+
+
+* Tooling
+
+** [[https://github.com/nanocaml/nanocaml][NanoCaml]]
+** [[https://github.com/RobertHarper/TILT-Compiler][TILT]]
+TILT is a compiler for Standard ML that uses Typed Intermediate
+Languages.
+** [[https://github.com/mfranzs/typer-piper][Typer Piper]]
+The Typer Piper: Automating Data Structure Transformations Through Type Chaining
+
+** [[https://github.com/vriad/zod][Zod]]
+Zod is a TypeScript-first schema declaration and validation library. I'm using the term "schema" to broadly refer to any data type/structure, from a simple string to a complex nested object.
+
+** [[https://github.com/Matechs-Garage/matechs-effect][Matechs Effect]]
+A Fully-fledged functional effect system for typescript with a rich standard library.
