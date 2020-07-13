@@ -28,11 +28,16 @@ An efficient implementation of the higher-order logic programming language Lambd
 
 ** [[https://github.com/pikelet-lang/pikelet/][Pikelet]]
 
+** [[][https://github.com/opencypher/]]
+A declarative property graph query language
+
 * Environments
 
 ** [[https://github.com/jamii/imp][Imp]]
 Relational Programming Environment
 
+** [[https://github.com/enso-org/][Enso]]
+Enso – a visual and textual functional programming language. 
 
 * Tooling
 
@@ -54,3 +59,10 @@ Formalised embedding of an imperative language with effect system into session-t
 
 ** [[https://github.com/goldfirere/singletons][Singletons]]
 Fake dependent types in Haskell using singletons 
+
+** [[https://github.com/robotlolita/tamago][Tamago]]
+A safe, extensible, layered programming language that runs on top of JavaScript 
+
+** [[https://github.com/tweag/asterius][Asterius]]
+Asterius is a Haskell to WebAssembly compiler based on GHC.
+
