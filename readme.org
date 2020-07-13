@@ -58,7 +58,7 @@ A fun safe language for rapid prototyping and high performance applications
 ** [[https://github.com/felix-lang/felix][Felix]]
 An advanced, statically typed, high performance scripting language with native C++ embedding.
 
-*** [[https://github.com/wyvernlang/wyvern][Wyvern]]
+** [[https://github.com/wyvernlang/wyvern][Wyvern]]
 Wyvern is a new general-purpose programming language designed to support adaptation and assurance.
 
 ** [[https://github.com/slovnicki/pLam][pLam]]
