@@ -43,6 +43,27 @@ Red is a new programming language strongly inspired by Rebol, but with a broader
 ** [[https://github.com/marcobambini/gravity][Gravity]]
 Gravity is a powerful, dynamically typed, lightweight, embeddable programming language written in C without any external dependencies (except for stdlib). It is a class-based concurrent scripting language with modern Swift-like syntax.
 
+** [[https://github.com/ballerina-platform/ballerina-lang][Ballerina]]
+Ballerina is an open source programming language and platform for cloud-era application programmers to easily write software that just works.
+
+** [[https://github.com/gluon-lang/gluon][Gluon]]
+A static, type inferred and embeddable language written in Rust.
+
+** [[https://github.com/gleam-lang/gleam][Gleam]]
+A statically typed language for the Erlang VM
+
+** [[https://github.com/FStarLang/FStar][FStar]]
+Verification system for effectful programs
+
+** [[https://github.com/agda/agda][Agda]]
+Agda is a dependently typed programming language / interactive theorem prover.
+
+** [[https://github.com/factor/factor][Factor]]
+Factor is a concatenative, stack-based programming language with high-level features including dynamic types, extensible syntax, macros, and garbage collection. On a practical side, Factor has a full-featured library, supports many different platforms, and has been extensively documented.
+
+** [[https://github.com/evincarofautumn/kitten][Kitten]]
+A statically typed concatenative systems programming language.
+
 * Environments
 
 ** [[https://github.com/jamii/imp][Imp]]
@@ -51,7 +72,7 @@ Relational Programming Environment
 ** [[https://github.com/enso-org/][Enso]]
 Enso – a visual and textual functional programming language.
 
-** [[[https://github.com/unisonweb/unison][Unison]]
+** [[https://github.com/unisonweb/unison][Unison]]
 Unison is a modern, statically-typed purely functional language, similar to Haskell, but with the ability to describe entire distributed systems with a single program.
 
 ** [[https://github.com/supercollider/supercollider][SuperCollider]]
