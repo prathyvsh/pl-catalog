@@ -26,6 +26,8 @@ Dark, a combined language, editor, and infrastructure to make it easy to build b
 ** [[https://github.com/teyjus/teyjus][Teyjus]]
 An efficient implementation of the higher-order logic programming language Lambda Prolog
 
+** [[https://github.com/pikelet-lang/pikelet/][Pikelet]]
+
 * Environments
 
 ** [[https://github.com/jamii/imp][Imp]]
@@ -46,3 +48,9 @@ Zod is a TypeScript-first schema declaration and validation library. I'm using t
 
 ** [[https://github.com/Matechs-Garage/matechs-effect][Matechs Effect]]
 A Fully-fledged functional effect system for typescript with a rich standard library.
+
+** [[https://github.com/dorchard/effects-as-sessions][Effects as Session]]
+Formalised embedding of an imperative language with effect system into session-typed pi calculus.
+
+** [[https://github.com/goldfirere/singletons][Singletons]]
+Fake dependent types in Haskell using singletons 
