@@ -32,7 +32,13 @@ An efficient implementation of the higher-order logic programming language Lambd
 A declarative property graph query language
 
 ** [[https://github.com/ballesta25/Morpheus][Morpheus]]
-A stack-based programming language with derivational morphemes 
+A stack-based programming language with derivational morphemes
+
+** [[https://github.com/jckarter/clay][Clay]]
+Clay is a programming language designed for Generic Programming.
+
+** [[https://github.com/ponylang/ponyc][Pony]]
+Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 
 ** [[https://github.com/koka-lang/koka][Koka]]
 Koka: a function-oriented language with effect inference
