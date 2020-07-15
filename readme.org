@@ -121,6 +121,9 @@ A small dynamically-typed scripting language written in Rust/C and is inspired b
 ** [[https://github.com/PlasmaLang/plasma][Plasma]]
 A statically typed, side-effect free single assignment language and will have functional programming and concurrent programming features.
 
+** [[https://github.com/egison/egison][Egison]]
+Egison is a functional programming language featuring its expressive pattern-matching facility.
+
 * Environments
 
 ** [[https://github.com/jamii/imp][Imp]]
