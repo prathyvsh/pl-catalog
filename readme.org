@@ -144,6 +144,8 @@ Unison is a modern, statically-typed purely functional language, similar to Hask
 ** [[https://github.com/supercollider/supercollider][SuperCollider]]
 An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 
+** [[https://github.com/mila-iqia/myia][Myia]]
+Myia is a new differentiable programming language. It aims to support large scale high performance computations (e.g. linear algebra) and their gradients.
 
 * Tooling
 
