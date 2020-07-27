@@ -127,6 +127,9 @@ A statically typed, side-effect free single assignment language and will have fu
 ** [[https://github.com/egison/egison][Egison]]
 Egison is a functional programming language featuring its expressive pattern-matching facility.
 
+** [[https://github.com/adam-mcdaniel/oakc][Oakc]]
+A portable programming language with an compact intermediate representation 
+
 * Environments
 
 ** [[https://github.com/jamii/imp][Imp]]
@@ -139,7 +142,8 @@ Enso – a visual and textual functional programming language.
 Unison is a modern, statically-typed purely functional language, similar to Haskell, but with the ability to describe entire distributed systems with a single program.
 
 ** [[https://github.com/supercollider/supercollider][SuperCollider]]
-An audio server, programming language, and IDE for sound synthesis and algorithmic composition. 
+An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
+
 
 * Tooling
 
