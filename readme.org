@@ -40,6 +40,9 @@ Clay is a programming language designed for Generic Programming.
 ** [[https://github.com/ponylang/ponyc][Pony]]
 Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 
+** [[https://github.com/frank-lang/frank][Frank]]
+Frank is a strict, effectful functional programming language with a bidirectional type-and-effect system and effect handlers
+
 ** [[https://github.com/koka-lang/koka][Koka]]
 Koka: a function-oriented language with effect inference
 
@@ -66,6 +69,9 @@ A fun safe language for rapid prototyping and high performance applications
 
 ** [[https://github.com/felix-lang/felix][Felix]]
 An advanced, statically typed, high performance scripting language with native C++ embedding.
+
+** [[https://github.com/robrix/facet][Facet]]
+A call-by-value functional language with algebraic effects, runners, quantitative type theory, and staging
 
 ** [[https://github.com/wyvernlang/wyvern][Wyvern]]
 Wyvern is a new general-purpose programming language designed to support adaptation and assurance.
