@@ -137,7 +137,10 @@ A statically typed, side-effect free single assignment language and will have fu
 Egison is a functional programming language featuring its expressive pattern-matching facility.
 
 ** [[https://github.com/adam-mcdaniel/oakc][Oakc]]
-A portable programming language with an compact intermediate representation 
+A portable programming language with an compact intermediate representation
+
+** [[https://github.com/pepijndevos/bobcat][Bobcat]]
+A concatenative language for behavior trees
 
 * Environments
 
