@@ -142,6 +142,12 @@ A portable programming language with an compact intermediate representation
 ** [[https://github.com/pepijndevos/bobcat][Bobcat]]
 A concatenative language for behavior trees
 
+** [[http://arturo-lang.io/][Arturo]]
+
+Repo: https://github.com/arturo-lang/arturo
+Simple, modern and powerful interpreted programming language for efficient scripting.
+
+
 * Environments
 
 ** [[https://github.com/jamii/imp][Imp]]
