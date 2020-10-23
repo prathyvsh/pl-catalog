@@ -88,6 +88,9 @@ Verification system for effectful programs
 ** [[https://github.com/agda/agda][Agda]]
 Agda is a dependently typed programming language / interactive theorem prover.
 
+** [[https://github.com/polyml/polyml][PolyML]]
+The Poly/ML implementation of Standard ML.
+
 ** [[https://github.com/factor/factor][Factor]]
 Factor is a concatenative, stack-based programming language with high-level features including dynamic types, extensible syntax, macros, and garbage collection. On a practical side, Factor has a full-featured library, supports many different platforms, and has been extensively documented.
 
