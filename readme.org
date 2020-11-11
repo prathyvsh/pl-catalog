@@ -43,6 +43,12 @@ Clay is a programming language designed for Generic Programming.
 ** [[https://github.com/ponylang/ponyc][Pony]]
 Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 
+** [[https://github.com/jcubic/lips][Lips]]
+Scheme based powerful lisp language in JavaScript 
+
+** [[https://github.com/slerpyyy/paste-lang][Paste Lang]]
+[WIP] An esoteric programming language build around macros.
+
 ** [[https://github.com/frank-lang/frank][Frank]]
 Frank is a strict, effectful functional programming language with a bidirectional type-and-effect system and effect handlers
 
