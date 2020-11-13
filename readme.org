@@ -52,6 +52,9 @@ Scheme based powerful lisp language in JavaScript
 ** [[https://github.com/frank-lang/frank][Frank]]
 Frank is a strict, effectful functional programming language with a bidirectional type-and-effect system and effect handlers
 
+** [[https://github.com/CatalaLang/catala][Catala]]
+Programming language for literate programming law specification
+
 ** [[https://github.com/koka-lang/koka][Koka]]
 Koka: a function-oriented language with effect inference
 
