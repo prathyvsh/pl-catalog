@@ -40,6 +40,9 @@ A stack-based programming language with derivational morphemes
 ** [[https://github.com/jckarter/clay][Clay]]
 Clay is a programming language designed for Generic Programming.
 
+** [[https://github.com/alantech/alan][Alan]]
+Alan is a programming language that does concurrency for you and can thus separate how the software is written from how it runs
+
 ** [[https://github.com/ponylang/ponyc][Pony]]
 Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 
