@@ -118,6 +118,9 @@ A Verified Implementation of ML
 ** [[https://github.com/zeroflag/punyforth][PunyForth]]
 Forth inspired programming language for the ESP8266
 
+** [[https://www.play-lang.dev/][Play]]
+A small, portable language, for making reliable applications
+
 ** [[https://github.com/cedille/cedille][Cedille]]
 Cedille, a dependently typed programming languages based on the Calculus of Dependent Lambda Eliminations
 
