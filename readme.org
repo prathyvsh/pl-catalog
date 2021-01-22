@@ -26,6 +26,9 @@ Ur is a programming language in the tradition of ML and Haskell, but featuring a
 ** [[https://github.com/darklang/][Dark]]
 Dark, a combined language, editor, and infrastructure to make it easy to build backends.
 
+** [[https://github.com/elves/elvish][Elvish]]
+Friendly Interactive Shell and Expressive Programming Language
+
 ** [[https://github.com/teyjus/teyjus][Teyjus]]
 An efficient implementation of the higher-order logic programming language Lambda Prolog
 
