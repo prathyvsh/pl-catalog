@@ -1,4 +1,4 @@
-* PL Catalog
+* Programming Languages for Enthusiasts
 
 A catalogue of languages, environments, and tooling around them.
 
@@ -147,6 +147,9 @@ An expression oriented, gradually typed and mission-critical programming languag
 
 ** [[https://github.com/c3d/xl][XL]]
 A super-flexible language based entirely on tree rewrites
+
+** [[https://github.com/google-research/dex-lang][Dex Lang]]
+Research language for array processing in the Haskell/ML family
 
 ** [[https://github.com/chessai/theseus][Theseus]]
 Functional programming language with fully reversible computation
