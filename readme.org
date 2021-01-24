@@ -226,7 +226,7 @@ The primary goal of Neon is to find out whether a useful programming language ca
 
 #+BEGIN_HTML
 <details>
-<summary><h2>Tooling</h2></summary>
+<summary><strong>Tooling</strong></summary>
 #+END_HTML
 
 ** [[https://github.com/nanocaml/nanocaml][NanoCaml]]
