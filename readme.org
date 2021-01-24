@@ -133,6 +133,12 @@ The Poly/ML implementation of Standard ML.
 Catala is a programming language adapted for socio-fiscal legislative literate programming. By annotating each line of the legislative text with its meaning in terms of code, one can derive an implementation of complex socio-fiscal mechanisms that enjoys a high level of assurance regarding the code-law faithfulness.
 
 ** [[https://github.com/factor/factor][Factor]]
+
+#+BEGIN_HTML
+<img width="150px" src="https://factorcode.org/logo.png" />
+<img width="300px" src="https://factorcode.org/factor-macosx.png" />
+#+END_HTML
+
 Factor is a concatenative, stack-based programming language with high-level features including dynamic types, extensible syntax, macros, and garbage collection. On a practical side, Factor has a full-featured library, supports many different platforms, and has been extensively documented.
 
 ** [[https://github.com/evincarofautumn/kitten][Kitten]]
