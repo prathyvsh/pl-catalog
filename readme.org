@@ -224,7 +224,10 @@ fizz is an experimental language and runtime environment for the exploration of 
 ** [[https://github.com/ghewgill/neon-lang][Neon]]
 The primary goal of Neon is to find out whether a useful programming language can avoid some of the common pitfalls that beginners frequently encounter in other languages.
 
-* Tooling
+#+BEGIN_HTML
+<details>
+<summary><h2>Tooling</h2></summary>
+#+END_HTML
 
 ** [[https://github.com/nanocaml/nanocaml][NanoCaml]]
 
@@ -253,3 +256,4 @@ A safe, extensible, layered programming language that runs on top of JavaScript
 ** [[https://github.com/tweag/asterius][Asterius]]
 Asterius is a Haskell to WebAssembly compiler based on GHC.
 
+#+BEGIN_HTML </details> #+END_HTML
