@@ -1,5 +1,7 @@
 * Programming Languages for Enthusiasts
 
+[[./cover-art.png]]
+
 A catalogue of languages, environments, and tooling around them.
 
 * Languages
