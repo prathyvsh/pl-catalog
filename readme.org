@@ -33,6 +33,11 @@ Friendly Interactive Shell and Expressive Programming Language
 An efficient implementation of the higher-order logic programming language Lambda Prolog
 
 ** [[https://github.com/pikelet-lang/pikelet/][Pikelet]]
+[[Pikelet Logo][https://raw.githubusercontent.com/pikelet-lang/pikelet/main/book/assets/pikelet.png]]
+A friendly little systems language with first-class types.
+
+Some of Brendan’s thoughts on evolving Pikelet can be read here:
+https://gist.github.com/brendanzab/eba7015e6345abe79a57a704091820bb/
 
 ** [[https://github.com/opencypher/][Open Cypher]]
 A declarative property graph query language
