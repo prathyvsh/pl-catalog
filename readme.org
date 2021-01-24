@@ -34,6 +34,7 @@ An efficient implementation of the higher-order logic programming language Lambd
 
 ** [[https://github.com/pikelet-lang/pikelet/][Pikelet]]
 [[Pikelet Logo][https://raw.githubusercontent.com/pikelet-lang/pikelet/main/book/assets/pikelet.png]]
+
 A friendly little systems language with first-class types.
 
 Some of Brendan’s thoughts on evolving Pikelet can be read here:
@@ -139,7 +140,12 @@ A statically typed concatenative systems programming language.
 A Verified Implementation of ML
 
 ** [[https://github.com/zeroflag/punyforth][PunyForth]]
-Forth inspired programming language for the ESP8266
+
+#+BEGIN_HTML
+<img width="300px" src="https://raw.githubusercontent.com/zeroflag/punyforth/master/screenshot/helloworld.png" />
+#+END_HTML
+
+A simple, stack-based, Forth inspired programming language that primarily targets Internet of Things (IOT) devices, like the ESP8266.
 
 ** [[https://www.play-lang.dev/][Play]]
 A small, portable language, for making reliable applications
