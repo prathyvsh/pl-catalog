@@ -62,7 +62,11 @@ Frank is a strict, effectful functional programming language with a bidirectiona
 Programming language for literate programming law specification
 
 ** [[https://github.com/koka-lang/koka][Koka]]
+
+[[Koka Logo][./https://koka-lang.github.io/koka/doc/images/koka-logo-filled.png]]
 Koka: a function-oriented language with effect inference
+
+I encountered Koka when researching about algebraic effects. Papers from Daan Leijen on its semantics and technical details are available here: https://www.microsoft.com/en-us/research/project/koka/
 
 ** [[https://github.com/red/red][Red]]
 Red is a new programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting, while providing modern support for concurrency and multi-core CPUs.
