@@ -2,7 +2,7 @@
 
 [[./cover-art.png]]
 
-A catalogue of languages, environments, and tooling around them.
+A catalogue of languages, environments, and tooling around them. Feel free to send a PR if I am missing some cool indie projects here.
 
 * Languages
 
