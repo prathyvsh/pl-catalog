@@ -60,7 +60,9 @@ Alan is a programming language that does concurrency for you and can thus separa
 
 Pony is an open-source, actor-model, capabilities-secure, high performance programming language.
 
-A post on the history of the language is available here: https://www.ponylang.io/blog/2017/05/an-early-history-of-pony/
+A post on the history of the language: https://www.ponylang.io/blog/2017/05/an-early-history-of-pony/
+
+A collection of talks on the language is available here: https://codesync.global/media/top-10-pony-lang-talks/
 
 ** [[https://github.com/jcubic/lips][Lips]]
 Scheme based powerful lisp language in JavaScript 
