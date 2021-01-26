@@ -76,6 +76,12 @@ Frank is a strict, effectful functional programming language with a bidirectiona
 ** [[https://github.com/CatalaLang/catala][Catala]]
 Programming language for literate programming law specification
 
+[[Catala Logo][https://raw.githubusercontent.com/CatalaLang/catala/master/doc/images/logo.png]]
+
+[[Catala Screenshot][https://raw.githubusercontent.com/CatalaLang/catala/master/doc/images/ScreenShotVSCode.png]]
+
+Website: https://catala-lang.org/
+
 ** [[https://github.com/koka-lang/koka][Koka]]
 
 #+BEGIN_HTML
