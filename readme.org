@@ -169,7 +169,9 @@ A small, portable language, for making reliable applications
 Cedille, a dependently typed programming languages based on the Calculus of Dependent Lambda Eliminations
 
 ** [[https://github.com/rntz/datafun][DataFun]]
-Research on integrating datalog & lambda calculus via monotonicity types
+Research on integrating datalog & lambda calculus via monotonicity types.
+
+Paper on the underlying theory: http://www.rntz.net/files/tones.pdf
 
 ** [[https://github.com/jondgoodwin/cone][Cone]]
 Cone is a fast, fit, friendly, and safe systems programming language.
