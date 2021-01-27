@@ -222,7 +222,11 @@ Repo: https://github.com/arturo-lang/arturo
 Simple, modern and powerful interpreted programming language for efficient scripting.
 
 ** [[https://github.com/jamii/imp][Imp]]
-Relational Programming Environment
+Relational Programming Environment.
+
+Imp by Jamie Brandon is envisioned to be a programming environment for working with structured data across multiple platforms blurring the lines between a programming language and a database.
+
+It is still in an experimental phase, but already home to a few cool ideas. Read about it here: https://scattered-thoughts.net/writing/imp-intro/
 
 ** [[https://github.com/enso-org/][Enso]]
 
