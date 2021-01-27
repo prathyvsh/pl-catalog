@@ -74,7 +74,8 @@ Scheme based powerful lisp language in JavaScript
 Frank is a strict, effectful functional programming language with a bidirectional type-and-effect system and effect handlers
 
 ** [[https://github.com/CatalaLang/catala][Catala]]
-Programming language for literate programming law specification
+Catala is a programming language adapted for socio-fiscal legislative literate programming. By annotating each line of the legislative text with its meaning in terms of code, one can derive an implementation of complex socio-fiscal mechanisms that enjoys a high level of assurance regarding the code-law faithfulness.
+
 
 [[Catala Logo][https://raw.githubusercontent.com/CatalaLang/catala/master/doc/images/logo.png]]
 
@@ -141,9 +142,6 @@ Agda is a dependently typed programming language / interactive theorem prover.
 
 ** [[https://github.com/polyml/polyml][PolyML]]
 The Poly/ML implementation of Standard ML.
-
-** [[https://github.com/CatalaLang/catala][Catala]]
-Catala is a programming language adapted for socio-fiscal legislative literate programming. By annotating each line of the legislative text with its meaning in terms of code, one can derive an implementation of complex socio-fiscal mechanisms that enjoys a high level of assurance regarding the code-law faithfulness.
 
 ** [[https://github.com/factor/factor][Factor]]
 
