@@ -153,6 +153,8 @@ The Poly/ML implementation of Standard ML.
 Factor is a concatenative, stack-based programming language with high-level features including dynamic types, extensible syntax, macros, and garbage collection. On a practical side, Factor has a full-featured library, supports many different platforms, and has been extensively documented.
 
 ** [[https://github.com/evincarofautumn/kitten][Kitten]]
+[[http://kittenlang.org/logo.png]]
+[[./img/kitten.png]]
 A statically typed concatenative systems programming language.
 
 ** [[https://github.com/CakeML/cakeml][CakeML]]
