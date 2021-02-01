@@ -26,7 +26,13 @@ It uses type inference along with a powerful type system to give you the speed o
 Ur is a programming language in the tradition of ML and Haskell, but featuring a significantly richer type system. Ur is functional, pure, statically typed, and strict. Ur supports a powerful kind of metaprogramming based on row types.
 
 ** [[https://github.com/darklang/][Dark]]
+
+[[./img/dark.gif]]
+
 Dark, a combined language, editor, and infrastructure to make it easy to build backends.
+
+Website: https://darklang.com/
+Dev Blog: https://blog.darklang.com/
 
 ** [[https://github.com/elves/elvish][Elvish]]
 Friendly Interactive Shell and Expressive Programming Language
