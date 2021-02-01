@@ -65,7 +65,10 @@ A post on the history of the language: https://www.ponylang.io/blog/2017/05/an-e
 A collection of talks on the language is available here: https://codesync.global/media/top-10-pony-lang-talks/
 
 ** [[https://github.com/jcubic/lips][Lips]]
-Scheme based powerful lisp language in JavaScript 
+Scheme based powerful lisp language in JavaScript
+
+** [[https://github.com/diku-dk/futhark][Futhark]]
+A data parallel functional programming language
 
 ** [[https://github.com/slerpyyy/paste-lang][Paste Lang]]
 [WIP] An esoteric programming language build around macros.
