@@ -27,7 +27,7 @@ Ur is a programming language in the tradition of ML and Haskell, but featuring a
 
 ** [[https://github.com/darklang/][Dark]]
 
-[[./img/dark.gif]]
+[[./img/darklang.gif]]
 
 Dark, a combined language, editor, and infrastructure to make it easy to build backends.
 
