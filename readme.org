@@ -146,6 +146,13 @@ Purely functional, reactive scripting language
 ** [[https://github.com/FStarLang/FStar][FStar]]
 Verification system for effectful programs
 
+** [[https://github.com/jeffreyguenther/shiro][Shiro]]
+Author: Jeffrey Guenther
+
+A declarative, dataflow programming language for exploring alternatives 
+
+Thesis: http://summit.sfu.ca/system/files/iritems1/17048/etd9968_JGuenther.pdf
+
 ** [[https://github.com/agda/agda][Agda]]
 Agda is a dependently typed programming language / interactive theorem prover.
 
