@@ -245,6 +245,7 @@ It is still in an experimental phase, but already home to a few cool ideas. Read
 ** [[https://github.com/enso-org/][Enso]]
 
 [[./img/enso.gif]]
+
 A hybrid visual and textual functional programming language.
 
 They keep a dev diary on Medium: https://medium.com/@enso_org/enso-dev-blog-18th-december-2020-e51e11c02c66
