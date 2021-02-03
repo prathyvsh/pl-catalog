@@ -54,6 +54,16 @@ A declarative property graph query language
 ** [[https://github.com/ballesta25/Morpheus][Morpheus]]
 A stack-based programming language with derivational morphemes
 
+** [[https://github.com/batman-nair/IRCIS][IRCIS]]
+
+[[Logo of IRCIS][https://raw.githubusercontent.com/batman-nair/IRCIS/master/screencaps/banner.png]]
+
+[[https://raw.githubusercontent.com/batman-nair/IRCIS/master/screencaps/factors.gif]]
+
+IRCIS is an esoteric programming language where the program exists in a two-dimensional grid of cells, where each cell contains a single instruction, and execution can proceed in any cardinal direction across this grid -- not just left-to-right, but also right-to-left, top-to-bottom, and bottom-to-top.
+
+
+
 ** [[https://github.com/jckarter/clay][Clay]]
 Clay is a programming language designed for Generic Programming.
 
