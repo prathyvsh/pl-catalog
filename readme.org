@@ -211,6 +211,9 @@ Paper on the underlying theory: http://www.rntz.net/files/tones.pdf
 ** [[https://github.com/jondgoodwin/cone][Cone]]
 Cone is a fast, fit, friendly, and safe systems programming language.
 
+** [[https://github.com/zesterer/atto][Atto]]
+An insanely simple self-hosted functional programming language
+
 ** [[https://github.com/less-wrong/less-wrong][Less Wrong]]
 Simple CoC-based programming language 
 
