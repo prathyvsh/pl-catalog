@@ -51,6 +51,15 @@ https://gist.github.com/brendanzab/eba7015e6345abe79a57a704091820bb/
 ** [[https://github.com/opencypher/][Open Cypher]]
 A declarative property graph query language
 
+** [[https://arend-lang.github.io/][Arend]]
+
+[[https://camo.githubusercontent.com/d87915ef6316c7f070a651d073ca995f206de1a51c80995c11d6deca8149b7f0/68747470733a2f2f6172656e642d6c616e672e6769746875622e696f2f6173736574732f696d616765732f4c6f676f5f62794a422e737667]]
+
+Arend is a theorem prover based on Homotopy Type Theory. It natively supports higher inductive types and a version of cubical syntax.
+
+Repo: https://github.com/JetBrains/Arend
+A tutorial on it is available here: https://ice1000.org/2020/05-14-ArendLittleIntro.html
+
 ** [[https://github.com/ballesta25/Morpheus][Morpheus]]
 A stack-based programming language with derivational morphemes
 
