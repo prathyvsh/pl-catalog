@@ -111,6 +111,11 @@ Catala is a programming language adapted for socio-fiscal legislative literate p
 
 Website: https://catala-lang.org/
 
+** [[http://www.attoparsec.com/artifacts/gottlob/index.html][Gottlob]]
+[[http://www.attoparsec.com/artifacts/gottlob/images/functions.png]]
+
+Gottlob is an esoteric language which tries to match Frege's notation in [[https://en.wikipedia.org/wiki/Begriffsschrift][Begriffsschrift]] as closely as possible.
+
 ** [[https://github.com/koka-lang/koka][Koka]]
 
 #+BEGIN_HTML
