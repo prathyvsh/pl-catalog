@@ -71,10 +71,11 @@ A stack-based programming language with derivational morphemes
 
 IRCIS is an esoteric programming language where the program exists in a two-dimensional grid of cells, where each cell contains a single instruction, and execution can proceed in any cardinal direction across this grid -- not just left-to-right, but also right-to-left, top-to-bottom, and bottom-to-top.
 
-
-
 ** [[https://github.com/jckarter/clay][Clay]]
 Clay is a programming language designed for Generic Programming.
+
+** [[https://github.com/jameshaydon/lawvere][Lawvere]]
+A categorical programming language with effects
 
 ** [[https://github.com/alantech/alan][Alan]]
 Alan is a programming language that does concurrency for you and can thus separate how the software is written from how it runs
