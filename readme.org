@@ -48,6 +48,11 @@ A friendly little systems language with first-class types.
 Some of Brendan’s thoughts on evolving Pikelet can be read here:
 https://gist.github.com/brendanzab/eba7015e6345abe79a57a704091820bb/
 
+** [[https://www.beeflang.org/][Beef]]
+[[https://raw.githubusercontent.com/beefytech/Beef/master/IDE/screenshot0.gif]]
+
+A performance-oriented language designed to provide high level ergonomics suitable for game development.
+
 ** [[https://github.com/opencypher/][Open Cypher]]
 A declarative property graph query language
 
