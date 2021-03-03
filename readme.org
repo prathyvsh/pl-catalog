@@ -78,6 +78,14 @@ A stack-based programming language with derivational morphemes
 
 IRCIS is an esoteric programming language where the program exists in a two-dimensional grid of cells, where each cell contains a single instruction, and execution can proceed in any cardinal direction across this grid -- not just left-to-right, but also right-to-left, top-to-bottom, and bottom-to-top.
 
+** [[https://github.com/wasp-lang/wasp][Wasp]]
+
+[[./img/wasp.png]]
+
+Wasp (Web Application Specification Language) is a declarative DSL (domain-specific language) for developing, building and deploying modern full-stack web apps with less code.
+
+Website: https://wasp-lang.dev/
+
 ** [[https://github.com/jckarter/clay][Clay]]
 Clay is a programming language designed for Generic Programming.
 
