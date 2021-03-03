@@ -105,6 +105,14 @@ A post on the history of the language: https://www.ponylang.io/blog/2017/05/an-e
 
 A collection of talks on the language is available here: https://codesync.global/media/top-10-pony-lang-talks/
 
+** [[https://wiki.xxiivv.com/site/lain.html][Lain]]
+
+[[./img/lain.png]]
+
+Lain is a Lisp based templating and scripting language used at Devin Lin Luvega’s website XXIIVV
+
+An image editor called Ronin is also based on the same language: https://100r.co/site/ronin.html
+
 ** [[https://github.com/jcubic/lips][Lips]]
 Scheme based powerful lisp language in JavaScript
 
