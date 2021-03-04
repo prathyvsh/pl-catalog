@@ -48,6 +48,12 @@ A friendly little systems language with first-class types.
 Some of Brendan’s thoughts on evolving Pikelet can be read here:
 https://gist.github.com/brendanzab/eba7015e6345abe79a57a704091820bb/
 
+** [[https://dotink.co/docs/overview/][Ink]]
+Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
+
+Repo: https://github.com/thesephist/ink
+
+
 ** [[https://www.beeflang.org/][Beef]]
 [[https://raw.githubusercontent.com/beefytech/Beef/master/IDE/screenshot0.gif]]
 
