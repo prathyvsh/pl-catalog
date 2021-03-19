@@ -164,6 +164,9 @@ Red is a new programming language strongly inspired by Rebol, but with a broader
 ** [[https://github.com/moonad/FormCoreJS][FormCoreJS]]
 A minimal pure functional language based on self dependent types.
 
+** [[https://github.com/granule-project/gerty][Gerty]]
+A minimal, dependently-typed programming language
+
 ** [[https://github.com/marcobambini/gravity][Gravity]]
 Gravity is a powerful, dynamically typed, lightweight, embeddable programming language written in C without any external dependencies (except for stdlib). It is a class-based concurrent scripting language with modern Swift-like syntax.
 
