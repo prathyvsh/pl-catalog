@@ -76,6 +76,20 @@ A tutorial on it is available here: https://ice1000.org/2020/05-14-ArendLittleIn
 ** [[https://github.com/ballesta25/Morpheus][Morpheus]]
 A stack-based programming language with derivational morphemes
 
+** [[https://github.com/hamler-lang/][Hamler]]
+
+[[https://camo.githubusercontent.com/174524f57c5ba4439286566213264242a6e4c9869cc8f8ddfd6027f585be3e3f/68747470733a2f2f7777772e68616d6c65722d6c616e672e6f72672f696d616765732f68616d6c65724032782e706e67]]
+
+Haskell-style functional programming language running on Erlang VM
+
+** [[https://lys-lang.dev][Lys]]
+
+[[https://user-images.githubusercontent.com/260114/54724904-c7e7d300-4b4b-11e9-8bbd-ec3f9044c86e.png]]
+
+A language that compiles to WebAssembly
+
+Repo: https://github.com/lys-lang/lys
+
 ** [[https://github.com/batman-nair/IRCIS][IRCIS]]
 
 [[Logo of IRCIS][https://raw.githubusercontent.com/batman-nair/IRCIS/master/screencaps/banner.png]]
