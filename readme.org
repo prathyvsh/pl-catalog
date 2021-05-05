@@ -23,7 +23,12 @@ Irken is a strongly typed, compiled language with a lisp-like syntax extensible 
 It uses type inference along with a powerful type system to give you the speed of a compiled language with high-level data types and a higher degree of safety than languages like C/C++.
 
 ** [[https://github.com/orion-lang/orion/][Orion]]
-[[https://raw.githubusercontent.com/orion-lang/orion/master/assets/orion-logo.png]]
+
+#+BEGIN_HTML
+
+<img src="https://raw.githubusercontent.com/orion-lang/orion/master/assets/orion-logo.png" width=100px />
+
+#+END_HTML
 
 Orion is a high level, purely functional programming language with a LISP based syntax
 
@@ -89,7 +94,11 @@ Haskell-style functional programming language running on Erlang VM
 
 ** [[https://lys-lang.dev][Lys]]
 
-[[https://user-images.githubusercontent.com/260114/54724904-c7e7d300-4b4b-11e9-8bbd-ec3f9044c86e.png]]
+#+BEGIN_HTML
+
+<img src="https://user-images.githubusercontent.com/260114/54724904-c7e7d300-4b4b-11e9-8bbd-ec3f9044c86e.png" width="100px" />
+
+#+END_HTML
 
 A language that compiles to WebAssembly
 
