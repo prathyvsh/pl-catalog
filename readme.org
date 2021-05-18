@@ -104,6 +104,11 @@ A language that compiles to WebAssembly
 
 Repo: https://github.com/lys-lang/lys
 
+** [[https://caramel.run][Caramel]]
+
+A functional language for building type-safe, scalable, and maintainable applications.
+Uses the OCaml compiler and targets the Erlang VM.
+
 ** [[https://github.com/batman-nair/IRCIS][IRCIS]]
 
 [[Logo of IRCIS][https://raw.githubusercontent.com/batman-nair/IRCIS/master/screencaps/banner.png]]
