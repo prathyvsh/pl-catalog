@@ -363,6 +363,16 @@ Myia is a new differentiable programming language. It aims to support large scal
 ** [[https://f1zz.org/][Fizz]]
 fizz is an experimental language and runtime environment for the exploration of cognitive architectures and combined Machine Learning (ML) and Machine Reasoning (MR) solutions. 
 
+** [[https://github.com/vrtbl/passerine/][Passerine]]
+
+#+BEGIN_HTML
+
+<img src="https://raw.githubusercontent.com/vrtbl/passerine/master/Logotype.svg" width=500px />
+
+#+END_HTML
+
+Passerine is a small extensible programming language designed for concise expression with little code. Passerine has roots in Scheme and ML-flavored languages: at its core, it's lambda-calculus with pattern-matching, structural ADTs, effect-based concurrency, and syntactic extension. The goal of Passerine is to create a tiny language core that can be extended in a composable manner, for use as a functional scripting language embeddable in other applications. Currently in early stages of development, Passerine has a 3 compilers at varying stages of completeness: one written in Rust, another D, and one in Passerine itself. It can target Wasm, its own compact bytecode format, D-lang, JS, and native code, among other formats.
+
 ** [[https://github.com/ghewgill/neon-lang][Neon]]
 The primary goal of Neon is to find out whether a useful programming language can avoid some of the common pitfalls that beginners frequently encounter in other languages.
 
