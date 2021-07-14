@@ -23,7 +23,7 @@ Irken is a strongly typed, compiled language with a lisp-like syntax extensible 
 It uses type inference along with a powerful type system to give you the speed of a compiled language with high-level data types and a higher degree of safety than languages like C/C++.
 
 
-** [[http://objective-s][Objective-S]]
+** [[http://objective.st/][Objective-S]]
 
 #+BEGIN_HTML
 
@@ -31,7 +31,8 @@ It uses type inference along with a powerful type system to give you the speed o
 
 #+END_HTML
 
-Objective-S is an architecture-oriented programming language.
+Objective-S is an architecture-oriented programming language inspired by Smalltalk, Objective-C, the UNIX shell
+and the web.
 
 ** [[https://github.com/orion-lang/orion/][Orion]]
 
