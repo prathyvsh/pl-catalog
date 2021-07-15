@@ -22,6 +22,18 @@ Dafny is a programming language with a program verifier. As you type in your pro
 Irken is a strongly typed, compiled language with a lisp-like syntax extensible with macros.
 It uses type inference along with a powerful type system to give you the speed of a compiled language with high-level data types and a higher degree of safety than languages like C/C++.
 
+
+** [[http://objective.st/][Objective-S]]
+
+#+BEGIN_HTML
+
+<img src="http://objective.st/objst.png" width=50px />
+
+#+END_HTML
+
+Objective-S is an architecture-oriented programming language inspired by Smalltalk, Objective-C, the UNIX shell
+and the web.
+
 ** [[https://github.com/orion-lang/orion/][Orion]]
 
 #+BEGIN_HTML
