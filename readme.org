@@ -2,7 +2,7 @@
 
 [[./cover-art.png]]
 
-A catalogue of languages, environments, and tooling around them. Feel free to send a PR if I am missing some cool indie projects here.
+A catalogue of languages, environments, and tooling around them. Feel free to send a PR if I am missing some cool indie projects here. If you find this catalog interesting, I am tweeting about updates to this repo on Twitter with attribution to the awesome makers behind these programming languages: https://twitter.com/prathyvsh/status/1353399062758891523
 
 * Languages
 
