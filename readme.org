@@ -15,6 +15,9 @@ Soufflé is a variant of Datalog for tool designers crafting analyses in Horn cl
 ** [[https://github.com/catseye/Mascarpone][Mascarpone]]
 Mascarpone is a self-modifying programming language in the style of Emmental.
 
+** [[https://github.com/TheRealMichaelWang/minima][Minima]]
+Minima is an object-oriented, imperative scripting language focused on being practical and pragmatic. Minima aims to be simple, easy to write, yet powerful enough to create readable, performant and concise code for any problem
+
 ** [[https://github.com/dafny-lang/dafny][Dafny]]
 Dafny is a programming language with a program verifier. As you type in your program, the verifier constantly looks over your shoulders and flags any errors.
 
