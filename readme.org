@@ -7,10 +7,10 @@ A catalogue of languages, environments, and tooling around them. Feel free to se
 * Languages
 
 ** [[https://github.com/mukul-rathi/bolt][Bolt]]
-Bolt is a language with in-built data-race freedom! 
+Bolt is a language with in-built data-race freedom!
 
 ** [[https://github.com/souffle-lang/souffle][Souffle]]
-Soufflé is a variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthesizes a native parallel C++ program from a logic specification. 
+Soufflé is a variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthesizes a native parallel C++ program from a logic specification.
 
 ** [[https://github.com/catseye/Mascarpone][Mascarpone]]
 Mascarpone is a self-modifying programming language in the style of Emmental.
@@ -252,7 +252,7 @@ Verification system for effectful programs
 ** [[https://github.com/jeffreyguenther/shiro][Shiro]]
 Author: Jeffrey Guenther
 
-A declarative, dataflow programming language for exploring alternatives 
+A declarative, dataflow programming language for exploring alternatives
 
 Thesis: http://summit.sfu.ca/system/files/iritems1/17048/etd9968_JGuenther.pdf
 
@@ -308,7 +308,7 @@ Cone is a fast, fit, friendly, and safe systems programming language.
 An insanely simple self-hosted functional programming language
 
 ** [[https://github.com/less-wrong/less-wrong][Less Wrong]]
-Simple CoC-based programming language 
+Simple CoC-based programming language
 
 ** [[https://github.com/wu-lang/wu][Wu]]
 An expression oriented, gradually typed and mission-critical programming language.
@@ -373,7 +373,7 @@ An audio server, programming language, and IDE for sound synthesis and algorithm
 Myia is a new differentiable programming language. It aims to support large scale high performance computations (e.g. linear algebra) and their gradients.
 
 ** [[https://f1zz.org/][Fizz]]
-fizz is an experimental language and runtime environment for the exploration of cognitive architectures and combined Machine Learning (ML) and Machine Reasoning (MR) solutions. 
+fizz is an experimental language and runtime environment for the exploration of cognitive architectures and combined Machine Learning (ML) and Machine Reasoning (MR) solutions.
 
 ** [[https://github.com/vrtbl/passerine/][Passerine]]
 
@@ -390,6 +390,9 @@ The primary goal of Neon is to find out whether a useful programming language ca
 
 ** [[https://vlang.io/][V]]
 Simple, fast, safe, compiled. For developing maintainable software.
+
+** [[https://github.com/xyproto/battlestar][Battlestar]]
+Battlestar provides a different syntax for programming in Assembly, with support for inline C. The goal is to let users create tiny executables and possibly write 4k and 64k demoscene demos. It's written for fun and for the educational process. 64-bit x86 Linux, 32-bit x86 Linux and 16-bit x86 DOS are supported.
 
 #+BEGIN_HTML
 <details>
@@ -415,10 +418,10 @@ A Fully-fledged functional effect system for typescript with a rich standard lib
 Formalised embedding of an imperative language with effect system into session-typed pi calculus.
 
 ** [[https://github.com/goldfirere/singletons][Singletons]]
-Fake dependent types in Haskell using singletons 
+Fake dependent types in Haskell using singletons
 
 ** [[https://github.com/robotlolita/tamago][Tamago]]
-A safe, extensible, layered programming language that runs on top of JavaScript 
+A safe, extensible, layered programming language that runs on top of JavaScript
 
 ** [[https://github.com/tweag/asterius][Asterius]]
 Asterius is a Haskell to WebAssembly compiler based on GHC.
