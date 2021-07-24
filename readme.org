@@ -87,18 +87,16 @@ A declarative property graph query language
 ** [[https://arend-lang.github.io/][Arend]]
 
 #+BEGIN_HTML
-<img src="./img/arend.png" width="300px />
 
-<p>Arend is a theorem prover based on its own take on Constructive Homotopy Type Theory (with an Interval Type) developed independently and in parallel to Cubical Type Theories. It natively supports higher inductive types, a version of cubical syntax and tight integration with IntelliJ IDEA IDE.</p>
-
-<ul>
-<li> Repo: https://github.com/JetBrains/Arend </li>
-<li> An official tutorial: https://arend-lang.github.io/documentation/tutorial </li>
-<li> And another tutorial from one of the (former) contributors: https://ice1000.org/2020/05-14-ArendLittleIntro.html </li>
-</ul>
+<img src="./img/arend.png" width="300px" />
 
 #+END_HTML
 
+Arend is a theorem prover based on its own take on Constructive Homotopy Type Theory (with an Interval Type) developed independently and in parallel to Cubical Type Theories. It natively supports higher inductive types, a version of cubical syntax and tight integration with IntelliJ IDEA IDE.
+
+- Repo: https://github.com/JetBrains/Arend
+- An official tutorial: https://arend-lang.github.io/documentation/tutorial
+- And another tutorial from one of the (former) contributors: https://ice1000.org/2020/05-14-ArendLittleIntro.html
 
 ** [[https://github.com/ballesta25/Morpheus][Morpheus]]
 A stack-based programming language with derivational morphemes
