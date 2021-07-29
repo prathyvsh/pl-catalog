@@ -388,6 +388,13 @@ Passerine is a small extensible programming language designed for concise expres
 ** [[https://github.com/ghewgill/neon-lang][Neon]]
 The primary goal of Neon is to find out whether a useful programming language can avoid some of the common pitfalls that beginners frequently encounter in other languages.
 
+
+** [[https://github.com/RockstarLang/rockstar][Rockstar]]
+Rockstar is a dynamically typed computer programming language,
+designed for creating programs that are also song lyrics. Rockstar is
+heavily influenced by the lyrical conventions of 1980s hard rock and
+power ballads.
+
 ** [[https://vlang.io/][V]]
 Simple, fast, safe, compiled. For developing maintainable software.
 
