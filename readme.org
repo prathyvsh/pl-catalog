@@ -391,7 +391,6 @@ Passerine is a small extensible programming language designed for concise expres
 ** [[https://github.com/ghewgill/neon-lang][Neon]]
 The primary goal of Neon is to find out whether a useful programming language can avoid some of the common pitfalls that beginners frequently encounter in other languages.
 
-
 ** [[https://github.com/RockstarLang/rockstar][Rockstar]]
 Rockstar is a dynamically typed computer programming language,
 designed for creating programs that are also song lyrics. Rockstar is
@@ -403,6 +402,9 @@ Simple, fast, safe, compiled. For developing maintainable software.
 
 ** [[https://github.com/xyproto/battlestar][Battlestar]]
 Battlestar provides a different syntax for programming in Assembly, with support for inline C. The goal is to let users create tiny executables and possibly write 4k and 64k demoscene demos. It's written for fun and for the educational process. 64-bit x86 Linux, 32-bit x86 Linux and 16-bit x86 DOS are supported.
+
+** [[https://mlochbaum.github.io/BQN/][BQN]]
+An APL-like language that tries to put APL on a firmer footing.
 
 #+BEGIN_HTML
 <details>
