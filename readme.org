@@ -120,6 +120,18 @@ A language that compiles to WebAssembly
 
 Repo: https://github.com/lys-lang/lys
 
+** [[https://www.assemblyscript.org/][AssemblyScript]]
+
+#+BEGIN_HTML
+
+<img src="https://avatars1.githubusercontent.com/u/28916798" width="100px" />
+
+#+END_HTML
+
+"A TypeScript-like language for WebAssembly."
+
+AssemblyScript inherits basic TypeScript syntax but leaves out all of complex type features. On the other hand AssemblyScript type system is completely mandatory and strict (no Any or Unknown types) thus guiding compiler optimizations. Speaking of which, AssemblyScript employs [[http://webassembly.github.io/binaryen/][Binaryen]] as a compiler back-end implementing its own specific optimizations on top of it. In addition to that it features three options for a run-time system ranging from no run-time at all with completely manual memory management to an advanced GC that still supports manual triggering. Not mentioning hand-crafted standard library implementing state-of-the-art numerical and sorting algorithms. :)
+
 ** [[https://caramel.run][Caramel]]
 
 A functional language for building type-safe, scalable, and maintainable applications.
