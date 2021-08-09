@@ -183,8 +183,11 @@ An image editor called Ronin is also based on the same language: https://100r.co
 ** [[https://github.com/jcubic/lips][Lips]]
 Scheme based powerful lisp language in JavaScript
 
-** [[https://github.com/diku-dk/futhark][Futhark]]
-A data parallel functional programming language
+** [[https://futhark-lang.org][Futhark]]
+
+A high-performance data-parallel functional programming language targeting CUDA and OpenCL. Features limited dependent types to track array dimentions, uniquness typing for local in-place mutation and a Standard ML-style module system with parametric modules. The compiler is implemented in Haskell.
+
+GitHub repository: https://github.com/diku-dk/futhark
 
 ** [[https://github.com/slerpyyy/paste-lang][Paste Lang]]
 [WIP] An esoteric programming language build around macros.
