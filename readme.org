@@ -75,7 +75,6 @@ Ink is a minimal programming language inspired by modern JavaScript and Go, with
 
 Repo: https://github.com/thesephist/ink
 
-
 ** [[https://www.beeflang.org/][Beef]]
 [[https://raw.githubusercontent.com/beefytech/Beef/master/IDE/screenshot0.gif]]
 
@@ -105,6 +104,8 @@ A stack-based programming language with derivational morphemes
 
 #+BEGIN_HTML
 <img src="https://camo.githubusercontent.com/174524f57c5ba4439286566213264242a6e4c9869cc8f8ddfd6027f585be3e3f/68747470733a2f2f7777772e68616d6c65722d6c616e672e6f72672f696d616765732f68616d6c65724032782e706e67" />
+
+#+END_HTML
 
 Haskell-style functional programming language running on Erlang VM
 
