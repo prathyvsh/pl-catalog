@@ -18,6 +18,15 @@ Mascarpone is a self-modifying programming language in the style of Emmental.
 ** [[https://github.com/dafny-lang/dafny][Dafny]]
 Dafny is a programming language with a program verifier. As you type in your program, the verifier constantly looks over your shoulders and flags any errors.
 
+** [[https://github.com/vtereshkov/umka-lang][Umka]]
+Umka is a statically typed embeddable scripting language. It combines the simplicity and flexibility needed for scripting with a compile-time protection against type errors. Its aim is to follow the Python Zen principle _Explicit is better than implicit_ more consistently than dynamically typed languages generally do.
+
+#+BEGIN_HTML
+
+<img src="./img/umka.png" width="640px" />
+
+#+END_HTML
+
 ** [[https://github.com/samrushing/irken-compiler][Irken]]
 Irken is a strongly typed, compiled language with a lisp-like syntax extensible with macros.
 It uses type inference along with a powerful type system to give you the speed of a compiled language with high-level data types and a higher degree of safety than languages like C/C++.
