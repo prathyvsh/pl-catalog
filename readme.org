@@ -23,7 +23,7 @@ Umka is a statically typed embeddable scripting language. It combines the simpli
 
 #+BEGIN_HTML
 
-<img src="./img/umka.png" width="640px" />
+<img src="./img/umka.png" width="800px" />
 
 #+END_HTML
 
