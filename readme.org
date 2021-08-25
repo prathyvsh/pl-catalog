@@ -19,7 +19,7 @@ Mascarpone is a self-modifying programming language in the style of Emmental.
 Dafny is a programming language with a program verifier. As you type in your program, the verifier constantly looks over your shoulders and flags any errors.
 
 ** [[https://github.com/vtereshkov/umka-lang][Umka]]
-Umka is a statically typed embeddable scripting language. It combines the simplicity and flexibility needed for scripting with a compile-time protection against type errors. Its aim is to follow the Python Zen principle _Explicit is better than implicit_ more consistently than dynamically typed languages generally do.
+Umka is a statically typed embeddable scripting language. It combines the simplicity and flexibility needed for scripting with a compile-time protection against type errors. Its aim is to follow the Python Zen principle /Explicit is better than implicit/ more consistently than dynamically typed languages generally do.
 
 #+BEGIN_HTML
 
