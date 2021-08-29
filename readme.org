@@ -18,6 +18,9 @@ Mascarpone is a self-modifying programming language in the style of Emmental.
 ** [[https://github.com/dafny-lang/dafny][Dafny]]
 Dafny is a programming language with a program verifier. As you type in your program, the verifier constantly looks over your shoulders and flags any errors.
 
+** [[https://scopes.js.org/][Scopes]]
+The Scopes programming language takes the saying "Objects are a poor man's closures" (and its reverse, "Closures are a poor man's objects") seriously.
+
 ** [[https://github.com/vtereshkov/umka-lang][Umka]]
 Umka is a statically typed embeddable scripting language. It combines the simplicity and flexibility needed for scripting with a compile-time protection against type errors. Its aim is to follow the Python Zen principle /Explicit is better than implicit/ more consistently than dynamically typed languages generally do.
 
