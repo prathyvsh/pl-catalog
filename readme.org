@@ -9,6 +9,10 @@ A catalogue of languages, environments, and tooling around them. Feel free to se
 ** [[https://github.com/mukul-rathi/bolt][Bolt]]
 Bolt is a language with in-built data-race freedom!
 
+Accompanying dissertation is available [[https://github.com/mukul-rathi/bolt-dissertation][here]].
+
+and the blog post on making it [[https://mukulrathi.netlify.app/create-your-own-programming-language/intro-to-compiler/][here]]
+
 ** [[https://github.com/souffle-lang/souffle][Souffle]]
 Soufflé is a variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthesizes a native parallel C++ program from a logic specification.
 
