@@ -16,6 +16,12 @@ and the blog post on making it [[https://mukulrathi.netlify.app/create-your-own-
 ** [[https://github.com/souffle-lang/souffle][Souffle]]
 Soufflé is a variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthesizes a native parallel C++ program from a logic specification.
 
+** [[https://github.com/coalton-lang/coalton][Coalton]]
+
+[[https://raw.githubusercontent.com/coalton-lang/coalton/main/docs/assets/coalton-logotype-gray.svg]]
+
+Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp.
+
 ** [[https://github.com/catseye/Mascarpone][Mascarpone]]
 Mascarpone is a self-modifying programming language in the style of Emmental.
 
