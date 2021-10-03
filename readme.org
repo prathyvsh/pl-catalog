@@ -6,6 +6,32 @@ A catalogue of languages, environments, and tooling around them. Feel free to se
 
 * Languages
 
+** [[https://arend-lang.github.io/][Arend]]
+
+#+BEGIN_HTML
+
+<img src="./img/arend.png" width="300px" />
+
+#+END_HTML
+
+Arend is a theorem prover based on its own take on Constructive Homotopy Type Theory (with an Interval Type) developed independently and in parallel to Cubical Type Theories. It natively supports higher inductive types, a version of cubical syntax and tight integration with IntelliJ IDEA IDE.
+
+- Repo: https://github.com/JetBrains/Arend
+- An official tutorial: https://arend-lang.github.io/documentation/tutorial
+- And another tutorial from one of the (former) contributors: https://ice1000.org/2020/05-14-ArendLittleIntro.html
+
+** [[https://www.assemblyscript.org/][AssemblyScript]]
+
+#+BEGIN_HTML
+
+<img src="https://avatars1.githubusercontent.com/u/28916798" width="100px" />
+
+#+END_HTML
+
+"A TypeScript-like language for WebAssembly."
+
+AssemblyScript inherits basic TypeScript syntax but leaves out all of complex type features. On the other hand AssemblyScript type system is completely mandatory and strict (no Any or Unknown types) thus guiding compiler optimizations. Speaking of which, AssemblyScript employs [[http://webassembly.github.io/binaryen/][Binaryen]] as a compiler back-end implementing its own specific optimizations on top of it. In addition to that it features three options for a run-time system ranging from no run-time at all with completely manual memory management to an advanced GC that still supports manual triggering. Not mentioning hand-crafted standard library implementing state-of-the-art numerical and sorting algorithms. :)
+
 ** [[https://github.com/mukul-rathi/bolt][Bolt]]
 Bolt is a language with in-built data-race freedom!
 
@@ -13,23 +39,33 @@ Accompanying dissertation is available [[https://github.com/mukul-rathi/bolt-dis
 
 and the blog post on making it [[https://mukulrathi.netlify.app/create-your-own-programming-language/intro-to-compiler/][here]]
 
-** [[https://github.com/souffle-lang/souffle][Souffle]]
-Soufflé is a variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthesizes a native parallel C++ program from a logic specification.
-
 ** [[https://github.com/coalton-lang/coalton][Coalton]]
 
 [[https://raw.githubusercontent.com/coalton-lang/coalton/main/docs/assets/coalton-logotype-gray.svg]]
 
 Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp.
 
-** [[https://github.com/catseye/Mascarpone][Mascarpone]]
-Mascarpone is a self-modifying programming language in the style of Emmental.
-
 ** [[https://github.com/dafny-lang/dafny][Dafny]]
 Dafny is a programming language with a program verifier. As you type in your program, the verifier constantly looks over your shoulders and flags any errors.
 
+** [[https://github.com/darklang/][Dark]]
+
+[[./img/darklang.gif]]
+
+Dark, a combined language, editor, and infrastructure to make it easy to build backends.
+
+Website: https://darklang.com/
+Dev Blog: https://blog.darklang.com/
+
+** [[https://github.com/samrushing/irken-compiler][Irken]]
+Irken is a strongly typed, compiled language with a lisp-like syntax extensible with macros.
+It uses type inference along with a powerful type system to give you the speed of a compiled language with high-level data types and a higher degree of safety than languages like C/C++.
+
 ** [[https://scopes.js.org/][Scopes]]
 The Scopes programming language takes the saying "Objects are a poor man's closures" (and its reverse, "Closures are a poor man's objects") seriously.
+
+** [[https://github.com/souffle-lang/souffle][Souffle]]
+Soufflé is a variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthesizes a native parallel C++ program from a logic specification.
 
 ** [[https://github.com/vtereshkov/umka-lang][Umka]]
 Umka is a statically typed embeddable scripting language. It combines the simplicity and flexibility needed for scripting with a compile-time protection against type errors. Its aim is to follow the Python Zen principle /Explicit is better than implicit/ more consistently than dynamically typed languages generally do.
@@ -40,10 +76,51 @@ Umka is a statically typed embeddable scripting language. It combines the simpli
 
 #+END_HTML
 
-** [[https://github.com/samrushing/irken-compiler][Irken]]
-Irken is a strongly typed, compiled language with a lisp-like syntax extensible with macros.
-It uses type inference along with a powerful type system to give you the speed of a compiled language with high-level data types and a higher degree of safety than languages like C/C++.
+** [[https://github.com/urweb/urweb][Ur/Web]]
+Ur is a programming language in the tradition of ML and Haskell, but featuring a significantly richer type system. Ur is functional, pure, statically typed, and strict. Ur supports a powerful kind of metaprogramming based on row types.
 
+
+** [[https://github.com/elves/elvish][Elvish]]
+Friendly Interactive Shell and Expressive Programming Language
+
+** [[https://www.beeflang.org/][Beef]]
+[[https://raw.githubusercontent.com/beefytech/Beef/master/IDE/screenshot0.gif]]
+
+A performance-oriented language designed to provide high level ergonomics suitable for game development.
+
+** [[https://dotink.co/docs/overview/][Ink]]
+Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
+
+Repo: https://github.com/thesephist/ink
+
+** [[https://github.com/catseye/Mascarpone][Mascarpone]]
+Mascarpone is a self-modifying programming language in the style of Emmental.
+
+** [[https://github.com/pikelet-lang/pikelet/][Pikelet]]
+[[Pikelet Logo][https://raw.githubusercontent.com/pikelet-lang/pikelet/main/book/assets/pikelet.png]]
+
+A friendly little systems language with first-class types.
+
+Some of Brendan’s thoughts on evolving Pikelet can be read here:
+https://gist.github.com/brendanzab/eba7015e6345abe79a57a704091820bb/
+
+** [[https://github.com/teyjus/teyjus][Teyjus]]
+An efficient implementation of the higher-order logic programming language Lambda Prolog
+
+** [[https://github.com/opencypher/][Open Cypher]]
+A declarative property graph query language
+
+** [[https://github.com/ballesta25/Morpheus][Morpheus]]
+A stack-based programming language with derivational morphemes
+
+** [[https://github.com/hamler-lang/][Hamler]]
+
+#+BEGIN_HTML
+<img src="https://camo.githubusercontent.com/174524f57c5ba4439286566213264242a6e4c9869cc8f8ddfd6027f585be3e3f/68747470733a2f2f7777772e68616d6c65722d6c616e672e6f72672f696d616765732f68616d6c65724032782e706e67" />
+
+#+END_HTML
+
+Haskell-style functional programming language running on Erlang VM
 
 ** [[http://objective.st/][Objective-S]]
 
@@ -66,71 +143,6 @@ and the web.
 
 Orion is a high level, purely functional programming language with a LISP based syntax
 
-** [[https://github.com/urweb/urweb][Ur/Web]]
-Ur is a programming language in the tradition of ML and Haskell, but featuring a significantly richer type system. Ur is functional, pure, statically typed, and strict. Ur supports a powerful kind of metaprogramming based on row types.
-
-** [[https://github.com/darklang/][Dark]]
-
-[[./img/darklang.gif]]
-
-Dark, a combined language, editor, and infrastructure to make it easy to build backends.
-
-Website: https://darklang.com/
-Dev Blog: https://blog.darklang.com/
-
-** [[https://github.com/elves/elvish][Elvish]]
-Friendly Interactive Shell and Expressive Programming Language
-
-** [[https://github.com/teyjus/teyjus][Teyjus]]
-An efficient implementation of the higher-order logic programming language Lambda Prolog
-
-** [[https://github.com/pikelet-lang/pikelet/][Pikelet]]
-[[Pikelet Logo][https://raw.githubusercontent.com/pikelet-lang/pikelet/main/book/assets/pikelet.png]]
-
-A friendly little systems language with first-class types.
-
-Some of Brendan’s thoughts on evolving Pikelet can be read here:
-https://gist.github.com/brendanzab/eba7015e6345abe79a57a704091820bb/
-
-** [[https://dotink.co/docs/overview/][Ink]]
-Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
-
-Repo: https://github.com/thesephist/ink
-
-** [[https://www.beeflang.org/][Beef]]
-[[https://raw.githubusercontent.com/beefytech/Beef/master/IDE/screenshot0.gif]]
-
-A performance-oriented language designed to provide high level ergonomics suitable for game development.
-
-** [[https://github.com/opencypher/][Open Cypher]]
-A declarative property graph query language
-
-** [[https://arend-lang.github.io/][Arend]]
-
-#+BEGIN_HTML
-
-<img src="./img/arend.png" width="300px" />
-
-#+END_HTML
-
-Arend is a theorem prover based on its own take on Constructive Homotopy Type Theory (with an Interval Type) developed independently and in parallel to Cubical Type Theories. It natively supports higher inductive types, a version of cubical syntax and tight integration with IntelliJ IDEA IDE.
-
-- Repo: https://github.com/JetBrains/Arend
-- An official tutorial: https://arend-lang.github.io/documentation/tutorial
-- And another tutorial from one of the (former) contributors: https://ice1000.org/2020/05-14-ArendLittleIntro.html
-
-** [[https://github.com/ballesta25/Morpheus][Morpheus]]
-A stack-based programming language with derivational morphemes
-
-** [[https://github.com/hamler-lang/][Hamler]]
-
-#+BEGIN_HTML
-<img src="https://camo.githubusercontent.com/174524f57c5ba4439286566213264242a6e4c9869cc8f8ddfd6027f585be3e3f/68747470733a2f2f7777772e68616d6c65722d6c616e672e6f72672f696d616765732f68616d6c65724032782e706e67" />
-
-#+END_HTML
-
-Haskell-style functional programming language running on Erlang VM
-
 ** [[https://lys-lang.dev][Lys]]
 
 #+BEGIN_HTML
@@ -142,18 +154,6 @@ Haskell-style functional programming language running on Erlang VM
 A language that compiles to WebAssembly
 
 Repo: https://github.com/lys-lang/lys
-
-** [[https://www.assemblyscript.org/][AssemblyScript]]
-
-#+BEGIN_HTML
-
-<img src="https://avatars1.githubusercontent.com/u/28916798" width="100px" />
-
-#+END_HTML
-
-"A TypeScript-like language for WebAssembly."
-
-AssemblyScript inherits basic TypeScript syntax but leaves out all of complex type features. On the other hand AssemblyScript type system is completely mandatory and strict (no Any or Unknown types) thus guiding compiler optimizations. Speaking of which, AssemblyScript employs [[http://webassembly.github.io/binaryen/][Binaryen]] as a compiler back-end implementing its own specific optimizations on top of it. In addition to that it features three options for a run-time system ranging from no run-time at all with completely manual memory management to an advanced GC that still supports manual triggering. Not mentioning hand-crafted standard library implementing state-of-the-art numerical and sorting algorithms. :)
 
 ** [[https://caramel.run][Caramel]]
 
