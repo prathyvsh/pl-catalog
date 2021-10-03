@@ -4,6 +4,8 @@
 
 A catalogue of languages, environments, and tooling around them. Feel free to send a PR if I am missing some cool indie projects here. If you find this catalog interesting, I am tweeting updates to this repo linking the work of the awesome developers behind these programming languages: https://twitter.com/prathyvsh/status/1353399062758891523
 
+If you are an indie language author and would like to feature your language here, add the language in lexicographic order and send a PR. It would be great if you can link to your language’s logo, documentation page, and preferrably a playground where users can interact with the language before installing it locally.
+
 * Languages
 
 ** [[https://arend-lang.github.io/][Arend]]
@@ -32,12 +34,32 @@ Arend is a theorem prover based on its own take on Constructive Homotopy Type Th
 
 AssemblyScript inherits basic TypeScript syntax but leaves out all of complex type features. On the other hand AssemblyScript type system is completely mandatory and strict (no Any or Unknown types) thus guiding compiler optimizations. Speaking of which, AssemblyScript employs [[http://webassembly.github.io/binaryen/][Binaryen]] as a compiler back-end implementing its own specific optimizations on top of it. In addition to that it features three options for a run-time system ranging from no run-time at all with completely manual memory management to an advanced GC that still supports manual triggering. Not mentioning hand-crafted standard library implementing state-of-the-art numerical and sorting algorithms. :)
 
+** [[https://www.beeflang.org/][Beef]]
+[[https://raw.githubusercontent.com/beefytech/Beef/master/IDE/screenshot0.gif]]
+
+A performance-oriented language designed to provide high level ergonomics suitable for game development.
+
 ** [[https://github.com/mukul-rathi/bolt][Bolt]]
 Bolt is a language with in-built data-race freedom!
 
 Accompanying dissertation is available [[https://github.com/mukul-rathi/bolt-dissertation][here]].
 
 and the blog post on making it [[https://mukulrathi.netlify.app/create-your-own-programming-language/intro-to-compiler/][here]]
+
+** [[https://caramel.run][Caramel]]
+
+A functional language for building type-safe, scalable, and maintainable applications.
+Uses the OCaml compiler and targets the Erlang VM.
+
+** [[https://github.com/CatalaLang/catala][Catala]]
+Catala is a programming language adapted for socio-fiscal legislative literate programming. By annotating each line of the legislative text with its meaning in terms of code, one can derive an implementation of complex socio-fiscal mechanisms that enjoys a high level of assurance regarding the code-law faithfulness.
+
+
+[[Catala Logo][https://raw.githubusercontent.com/CatalaLang/catala/master/doc/images/logo.png]]
+
+[[Catala Screenshot][https://raw.githubusercontent.com/CatalaLang/catala/master/doc/images/ScreenShotVSCode.png]]
+
+Website: https://catala-lang.org/
 
 ** [[https://github.com/coalton-lang/coalton][Coalton]]
 
@@ -56,6 +78,12 @@ Dark, a combined language, editor, and infrastructure to make it easy to build b
 
 Website: https://darklang.com/
 Dev Blog: https://blog.darklang.com/
+
+
+** [[https://dotink.co/docs/overview/][Ink]]
+Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
+
+Repo: https://github.com/thesephist/ink
 
 ** [[https://github.com/samrushing/irken-compiler][Irken]]
 Irken is a strongly typed, compiled language with a lisp-like syntax extensible with macros.
@@ -82,16 +110,6 @@ Ur is a programming language in the tradition of ML and Haskell, but featuring a
 
 ** [[https://github.com/elves/elvish][Elvish]]
 Friendly Interactive Shell and Expressive Programming Language
-
-** [[https://www.beeflang.org/][Beef]]
-[[https://raw.githubusercontent.com/beefytech/Beef/master/IDE/screenshot0.gif]]
-
-A performance-oriented language designed to provide high level ergonomics suitable for game development.
-
-** [[https://dotink.co/docs/overview/][Ink]]
-Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
-
-Repo: https://github.com/thesephist/ink
 
 ** [[https://github.com/catseye/Mascarpone][Mascarpone]]
 Mascarpone is a self-modifying programming language in the style of Emmental.
@@ -155,11 +173,6 @@ A language that compiles to WebAssembly
 
 Repo: https://github.com/lys-lang/lys
 
-** [[https://caramel.run][Caramel]]
-
-A functional language for building type-safe, scalable, and maintainable applications.
-Uses the OCaml compiler and targets the Erlang VM.
-
 ** [[https://github.com/batman-nair/IRCIS][IRCIS]]
 
 [[Logo of IRCIS][https://raw.githubusercontent.com/batman-nair/IRCIS/master/screencaps/banner.png]]
@@ -217,16 +230,6 @@ GitHub repository: https://github.com/diku-dk/futhark
 
 ** [[https://github.com/frank-lang/frank][Frank]]
 Frank is a strict, effectful functional programming language with a bidirectional type-and-effect system and effect handlers
-
-** [[https://github.com/CatalaLang/catala][Catala]]
-Catala is a programming language adapted for socio-fiscal legislative literate programming. By annotating each line of the legislative text with its meaning in terms of code, one can derive an implementation of complex socio-fiscal mechanisms that enjoys a high level of assurance regarding the code-law faithfulness.
-
-
-[[Catala Logo][https://raw.githubusercontent.com/CatalaLang/catala/master/doc/images/logo.png]]
-
-[[Catala Screenshot][https://raw.githubusercontent.com/CatalaLang/catala/master/doc/images/ScreenShotVSCode.png]]
-
-Website: https://catala-lang.org/
 
 ** [[http://www.attoparsec.com/artifacts/gottlob/index.html][Gottlob]]
 [[http://www.attoparsec.com/artifacts/gottlob/images/functions.png]]
