@@ -34,13 +34,22 @@ Arend is a theorem prover based on its own take on Constructive Homotopy Type Th
 
 AssemblyScript inherits basic TypeScript syntax but leaves out all of complex type features. On the other hand AssemblyScript type system is completely mandatory and strict (no Any or Unknown types) thus guiding compiler optimizations. Speaking of which, AssemblyScript employs [[http://webassembly.github.io/binaryen/][Binaryen]] as a compiler back-end implementing its own specific optimizations on top of it. In addition to that it features three options for a run-time system ranging from no run-time at all with completely manual memory management to an advanced GC that still supports manual triggering. Not mentioning hand-crafted standard library implementing state-of-the-art numerical and sorting algorithms. :)
 
+** [[http://arturo-lang.io/][Arturo]]
+
+Repo: https://github.com/arturo-lang/arturo
+Simple, modern and powerful interpreted programming language for efficient scripting.
+
 ** [[https://www.beeflang.org/][Beef]]
 [[https://raw.githubusercontent.com/beefytech/Beef/master/IDE/screenshot0.gif]]
 
 A performance-oriented language designed to provide high level ergonomics suitable for game development.
 
+** [[https://github.com/pepijndevos/bobcat][Bobcat]]
+A concatenative language for behavior trees
+
 ** [[https://github.com/mukul-rathi/bolt][Bolt]]
 Bolt is a language with in-built data-race freedom!
+
 
 Accompanying dissertation is available [[https://github.com/mukul-rathi/bolt-dissertation][here]].
 
@@ -67,6 +76,7 @@ Website: https://catala-lang.org/
 
 Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp.
 
+
 ** [[https://github.com/dafny-lang/dafny][Dafny]]
 Dafny is a programming language with a program verifier. As you type in your program, the verifier constantly looks over your shoulders and flags any errors.
 
@@ -79,6 +89,33 @@ Dark, a combined language, editor, and infrastructure to make it easy to build b
 Website: https://darklang.com/
 Dev Blog: https://blog.darklang.com/
 
+
+** [[https://github.com/google-research/dex-lang][Dex Lang]]
+Research language for array processing in the Haskell/ML family
+
+** [[https://github.com/ditto/ditto][Ditto]]
+A Super Kawaii Dependently Typed Programming Language
+
+** [[https://github.com/ffwff/hana][Hana]]
+A small dynamically-typed scripting language written in Rust/C and is inspired by Pascal, Ruby and Javascript.
+
+** [[https://github.com/egison/egison][Egison]]
+Egison is a functional programming language featuring its expressive pattern-matching facility.
+
+** [[https://github.com/enso-org/][Enso]]
+
+[[./img/enso.gif]]
+
+A hybrid visual and textual functional programming language.
+
+They keep a dev diary on Medium: https://medium.com/@enso_org/enso-dev-blog-18th-december-2020-e51e11c02c66
+
+** [[https://github.com/jamii/imp][Imp]]
+Relational Programming Environment.
+
+Imp by Jamie Brandon is envisioned to be a programming environment for working with structured data across multiple platforms blurring the lines between a programming language and a database.
+
+It is still in an experimental phase, but already home to a few cool ideas. Read about it here: https://scattered-thoughts.net/writing/imp-intro/
 
 ** [[https://dotink.co/docs/overview/][Ink]]
 Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
@@ -360,52 +397,19 @@ An expression oriented, gradually typed and mission-critical programming languag
 ** [[https://github.com/c3d/xl][XL]]
 A super-flexible language based entirely on tree rewrites
 
-** [[https://github.com/google-research/dex-lang][Dex Lang]]
-Research language for array processing in the Haskell/ML family
-
 ** [[https://github.com/chessai/theseus][Theseus]]
 Functional programming language with fully reversible computation
 
-** [[https://github.com/ditto/ditto][Ditto]]
-A Super Kawaii Dependently Typed Programming Language
+
 
 ** [[https://github.com/finkel-lang/finkel][Finkel]]
 Finkel is a statically typed, purely functional, non-strict-by-default dialect of the Lisp programming language. Or in other words, Haskell in S-expression.
 
-** [[https://github.com/ffwff/hana][Hana]]
-A small dynamically-typed scripting language written in Rust/C and is inspired by Pascal, Ruby and Javascript.
-
 ** [[https://github.com/PlasmaLang/plasma][Plasma]]
 A statically typed, side-effect free single assignment language and will have functional programming and concurrent programming features.
 
-** [[https://github.com/egison/egison][Egison]]
-Egison is a functional programming language featuring its expressive pattern-matching facility.
-
 ** [[https://github.com/adam-mcdaniel/oakc][Oakc]]
 A portable programming language with an compact intermediate representation
-
-** [[https://github.com/pepijndevos/bobcat][Bobcat]]
-A concatenative language for behavior trees
-
-** [[http://arturo-lang.io/][Arturo]]
-
-Repo: https://github.com/arturo-lang/arturo
-Simple, modern and powerful interpreted programming language for efficient scripting.
-
-** [[https://github.com/jamii/imp][Imp]]
-Relational Programming Environment.
-
-Imp by Jamie Brandon is envisioned to be a programming environment for working with structured data across multiple platforms blurring the lines between a programming language and a database.
-
-It is still in an experimental phase, but already home to a few cool ideas. Read about it here: https://scattered-thoughts.net/writing/imp-intro/
-
-** [[https://github.com/enso-org/][Enso]]
-
-[[./img/enso.gif]]
-
-A hybrid visual and textual functional programming language.
-
-They keep a dev diary on Medium: https://medium.com/@enso_org/enso-dev-blog-18th-december-2020-e51e11c02c66
 
 ** [[https://github.com/unisonweb/unison][Unison]]
 Unison is a modern, statically-typed purely functional language, similar to Haskell, but with the ability to describe entire distributed systems with a single program.
