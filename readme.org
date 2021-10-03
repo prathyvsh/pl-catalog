@@ -10,6 +10,7 @@ A catalogue of languages, environments, and tooling around them. Feel free to se
 An easy to use systems programming language with python like syntax
 
 It is statically typed and gets transcompiled to C thus making it as fast as C
+
 A blog post about it is on[[https://dev.to/saptakbhoumik/swallow-a-new-programming-language-with-python-like-syntax-but-as-fast-as-c-currently-under-devolopment-2of4/][Dev community]]
 
 ** [[https://github.com/mukul-rathi/bolt][Bolt]]
