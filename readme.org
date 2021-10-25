@@ -198,6 +198,25 @@ and the web.
 
 Orion is a high level, purely functional programming language with a LISP based syntax
 
+** [[https://loda-lang.org/][Loda]]
+
+#+BEGIN_HTML
+
+<img src="./img/loda-logo.png" width="100px" />
+
+#+END_HTML
+
+#+BEGIN_HTML
+
+<img src="https://raw.githubusercontent.com/loda-lang/loda-lang.github.io/master/loda-editor.png" />
+
+#+END_HTML
+
+LODA is an assembly language, a computational model and a distributed tool for mining integer sequences.
+
+
+Repo: https://github.com/loda-lang
+
 ** [[https://lys-lang.dev][Lys]]
 
 #+BEGIN_HTML
@@ -205,10 +224,6 @@ Orion is a high level, purely functional programming language with a LISP based 
 <img src="https://user-images.githubusercontent.com/260114/54724904-c7e7d300-4b4b-11e9-8bbd-ec3f9044c86e.png" width="100px" />
 
 #+END_HTML
-
-A language that compiles to WebAssembly
-
-Repo: https://github.com/lys-lang/lys
 
 ** [[https://github.com/batman-nair/IRCIS][IRCIS]]
 
