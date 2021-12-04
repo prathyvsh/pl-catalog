@@ -55,7 +55,7 @@ Accompanying dissertation is available [[https://github.com/mukul-rathi/bolt-dis
 
 and the blog post on making it [[https://mukulrathi.netlify.app/create-your-own-programming-language/intro-to-compiler/][here]]
 
-** [[https://www.seas.upenn.edu/~harmony/][Boomerang]]
+** [[https://github.com/boomerang-lang/boomerang][Boomerang]]
 
 #+BEGIN_HTML
 
@@ -65,6 +65,8 @@ and the blog post on making it [[https://mukulrathi.netlify.app/create-your-own-
 
 Boomerang is a programming language for writing bidirectional transforms using lenses. It can be thought of as providing a setting for describing computations from left to right as functions mapping inputs to outputs and from right to left as describing a function that describes a modified output, together with the original input, back to a modified input.
 
+Website: https://www.seas.upenn.edu/~harmony/
+
 ** [[https://caramel.run][Caramel]]
 
 A functional language for building type-safe, scalable, and maintainable applications.
@@ -72,7 +74,6 @@ Uses the OCaml compiler and targets the Erlang VM.
 
 ** [[https://github.com/CatalaLang/catala][Catala]]
 Catala is a programming language adapted for socio-fiscal legislative literate programming. By annotating each line of the legislative text with its meaning in terms of code, one can derive an implementation of complex socio-fiscal mechanisms that enjoys a high level of assurance regarding the code-law faithfulness.
-
 
 [[Catala Logo][https://raw.githubusercontent.com/CatalaLang/catala/master/doc/images/logo.png]]
 
