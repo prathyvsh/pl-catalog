@@ -55,6 +55,16 @@ Accompanying dissertation is available [[https://github.com/mukul-rathi/bolt-dis
 
 and the blog post on making it [[https://mukulrathi.netlify.app/create-your-own-programming-language/intro-to-compiler/][here]]
 
+** [[https://www.seas.upenn.edu/~harmony/][Boomerang]]
+
+#+BEGIN_HTML
+
+<img src="./img/boomerang.png" width="300px" />
+
+#+END_HTML
+
+Boomerang is a programming language for writing bidirectional transforms using lenses. It can be thought of as providing a setting for describing computations from left to right as functions mapping inputs to outputs and from right to left as describing a function that describes a modified output, together with the original input, back to a modified input.
+
 ** [[https://caramel.run][Caramel]]
 
 A functional language for building type-safe, scalable, and maintainable applications.
