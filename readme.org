@@ -128,6 +128,14 @@ Imp by Jamie Brandon is envisioned to be a programming environment for working w
 
 It is still in an experimental phase, but already home to a few cool ideas. Read about it here: https://scattered-thoughts.net/writing/imp-intro/
 
+** [[https://github.com/chaosprint/glicol][Glicol]]
+
+[[https://raw.githubusercontent.com/chaosprint/glicol/main/logo.png]]
+
+A graph-oriented live coding language written in Rust.
+
+Website: https://glicol.org
+
 ** [[https://dotink.co/docs/overview/][Ink]]
 Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
 
