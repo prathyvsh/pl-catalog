@@ -338,7 +338,12 @@ Ballerina is an open source programming language and platform for cloud-era appl
 A static, type inferred and embeddable language written in Rust.
 
 ** [[https://github.com/flix/flix][Flix]]
-Flix is a statically typed functional, imperative, and logic programming language.
+
+[[https://raw.githubusercontent.com/flix/flix/master/docs/logo.png]]
+
+Flix is a principled poly-paradigm language with polymorphic effect system and first class datalog constraints.
+
+Website: https://flix.dev
 
 ** [[https://github.com/gleam-lang/gleam][Gleam]]
 A statically typed language for the Erlang VM
