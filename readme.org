@@ -522,4 +522,8 @@ A safe, extensible, layered programming language that runs on top of JavaScript
 ** [[https://github.com/tweag/asterius][Asterius]]
 Asterius is a Haskell to WebAssembly compiler based on GHC.
 
+** Compilations
+
+*** [[https://github.com/yairchu/list-of-structural-editors][List of structural editors]]
+
 #+BEGIN_HTML </details> #+END_HTML
