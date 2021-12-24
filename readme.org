@@ -148,6 +148,14 @@ It uses type inference along with a powerful type system to give you the speed o
 ** [[https://scopes.js.org/][Scopes]]
 The Scopes programming language takes the saying "Objects are a poor man's closures" (and its reverse, "Closures are a poor man's objects") seriously.
 
+** [[https://github.com/dmadisetti/sona.js][sona]]
+The sona programming language is a 14 token language with a ~ minimal (1000 character) interpreter. It is based on and in the minimal (140 words) natural constructed language [[https://tokipona.org][toki pona]] created by Sonja Lang. The design inspiration comes from assembly for simplicity. A sona playground is availible on [[https://observablehq.com/@dmadisetti/sona][Observable]].
+#+BEGIN_HTML
+
+<img src="./img/sona.png" width="400px" />
+
+#+END_HTML
+
 ** [[https://github.com/souffle-lang/souffle][Souffle]]
 Soufflé is a variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthesizes a native parallel C++ program from a logic specification.
 
