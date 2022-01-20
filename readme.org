@@ -113,6 +113,10 @@ A small dynamically-typed scripting language written in Rust/C and is inspired b
 ** [[https://github.com/egison/egison][Egison]]
 Egison is a functional programming language featuring its expressive pattern-matching facility.
 
+** [[https://www.empirical-soft.com][Empirical]]
+
+Empirical is a language for time-series analysis. It has statically typed Dataframes that can infer type from an external source at compile time.
+
 ** [[https://github.com/enso-org/][Enso]]
 
 [[./img/enso.gif]]
