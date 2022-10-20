@@ -100,15 +100,12 @@ Dark, a combined language, editor, and infrastructure to make it easy to build b
 Website: https://darklang.com/
 Dev Blog: https://blog.darklang.com/
 
-
 ** [[https://github.com/google-research/dex-lang][Dex Lang]]
 Research language for array processing in the Haskell/ML family
 
 ** [[https://github.com/ditto/ditto][Ditto]]
 A Super Kawaii Dependently Typed Programming Language
 
-** [[https://github.com/ffwff/hana][Hana]]
-A small dynamically-typed scripting language written in Rust/C and is inspired by Pascal, Ruby and Javascript.
 
 ** [[https://github.com/egison/egison][Egison]]
 Egison is a functional programming language featuring its expressive pattern-matching facility.
@@ -125,12 +122,11 @@ A hybrid visual and textual functional programming language.
 
 They keep a dev diary on Medium: https://medium.com/@enso_org/enso-dev-blog-18th-december-2020-e51e11c02c66
 
-** [[https://github.com/jamii/imp][Imp]]
-Relational Programming Environment.
+** [[https://github.com/felix-lang/felix][Felix]]
+An advanced, statically typed, high performance scripting language with native C++ embedding.
 
-Imp by Jamie Brandon is envisioned to be a programming environment for working with structured data across multiple platforms blurring the lines between a programming language and a database.
-
-It is still in an experimental phase, but already home to a few cool ideas. Read about it here: https://scattered-thoughts.net/writing/imp-intro/
+** [[https://github.com/robrix/facet][Facet]]
+A call-by-value functional language with algebraic effects, runners, quantitative type theory, and staging
 
 ** [[https://github.com/chaosprint/glicol][Glicol]]
 
@@ -139,6 +135,23 @@ It is still in an experimental phase, but already home to a few cool ideas. Read
 A graph-oriented live coding language written in Rust.
 
 Website: https://glicol.org
+
+** [[https://github.com/ffwff/hana][Hana]]
+A small dynamically-typed scripting language written in Rust/C and is inspired by Pascal, Ruby and Javascript.
+
+** [[https://github.com/imba/imba][Imba]]
+[[https://github.com/imba/branding-imba/raw/555b21940fa796fbf0eed44df48160d450ca894b/mascot/mascot-full-yellow.png]]
+
+Imba is a friendly full-stack programming language for the web that compiles to performant JavaScript. It has language-level support for defining, extending, subclassing, instantiating and rendering DOM nodes.
+
+Website: [[https://imba.io/]]
+
+** [[https://github.com/jamii/imp][Imp]]
+Relational Programming Environment.
+
+Imp by Jamie Brandon is envisioned to be a programming environment for working with structured data across multiple platforms blurring the lines between a programming language and a database.
+
+It is still in an experimental phase, but already home to a few cool ideas. Read about it here: https://scattered-thoughts.net/writing/imp-intro/
 
 ** [[https://dotink.co/docs/overview/][Ink]]
 Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
@@ -362,12 +375,6 @@ A statically typed language for the Erlang VM
 
 ** [[https://github.com/astrolang/astro][Astro]]
 A fun safe language for rapid prototyping and high performance applications
-
-** [[https://github.com/felix-lang/felix][Felix]]
-An advanced, statically typed, high performance scripting language with native C++ embedding.
-
-** [[https://github.com/robrix/facet][Facet]]
-A call-by-value functional language with algebraic effects, runners, quantitative type theory, and staging
 
 ** [[https://github.com/wyvernlang/wyvern][Wyvern]]
 Wyvern is a new general-purpose programming language designed to support adaptation and assurance.
