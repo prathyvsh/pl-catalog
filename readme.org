@@ -297,6 +297,12 @@ Wasp (Web Application Specification Language) is a declarative DSL (domain-speci
 
 Website: https://wasp-lang.dev/
 
+** [[https://webdsl.org/page/Manual][WebDSL]]
+
+WebDSL is an imperative OOish programming language with features directly representing Web development-related concepts (such as DB-backed entities, pages, forms, authentication and authorisation, etc.). This naturally provides rapid Web application development capabilities. The language is built with the [[https://www.spoofax.dev/][Spoofax Language Workbench]] (which in turn provides rapid /programming languages/ development capabilities :)).
+
+GitGub repo: https://github.com/webdsl/webdsl
+
 ** [[https://github.com/jckarter/clay][Clay]]
 Clay is a programming language designed for Generic Programming.
 
