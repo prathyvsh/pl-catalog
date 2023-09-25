@@ -162,6 +162,18 @@ Repo: https://github.com/thesephist/ink
 Irken is a strongly typed, compiled language with a lisp-like syntax extensible with macros.
 It uses type inference along with a powerful type system to give you the speed of a compiled language with high-level data types and a higher degree of safety than languages like C/C++.
 
+** [[https://ngs-lang.org/][Next Generation Shell]]
+
+NGS is a programming language designed specifically for DevOps. It's a fully fledged programming language with facilities for typical shell scripting: running external programs (including handling of exit codes), data manipulation, retry, etc.
+
+Repo: https://github.com/ngs-lang/ngs
+
+#+BEGIN_HTML
+
+<img src="https://ngs-lang.org/ngs-logo-300.png" />
+
+#+END_HTML
+
 ** [[https://scopes.js.org/][Scopes]]
 The Scopes programming language takes the saying "Objects are a poor man's closures" (and its reverse, "Closures are a poor man's objects") seriously.
 
