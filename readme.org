@@ -130,7 +130,7 @@ A call-by-value functional language with algebraic effects, runners, quantitativ
 
 ** [[https://github.com/chaosprint/glicol][Glicol]]
 
-[[https://raw.githubusercontent.com/chaosprint/glicol/main/logo.png]]
+[[./img/glicol.png]]
 
 A graph-oriented live coding language written in Rust.
 
@@ -200,9 +200,13 @@ Umka is a statically typed embeddable scripting language. It combines the simpli
 ** [[https://github.com/urweb/urweb][Ur/Web]]
 Ur is a programming language in the tradition of ML and Haskell, but featuring a significantly richer type system. Ur is functional, pure, statically typed, and strict. Ur supports a powerful kind of metaprogramming based on row types.
 
-
 ** [[https://github.com/elves/elvish][Elvish]]
 Friendly Interactive Shell and Expressive Programming Language
+
+** [[https://suberic.net/~dmm/projects/mystical/README.html][Mystical]]
+
+[[./img/mystical.png]]
+A mythical looking programming language
 
 ** [[https://github.com/catseye/Mascarpone][Mascarpone]]
 Mascarpone is a self-modifying programming language in the style of Emmental.
