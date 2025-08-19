@@ -88,6 +88,9 @@ Website: https://catala-lang.org/
 Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp.
 
 
+** [[https://github.com/TheRealMichaelWang/minima][Minima]]
+Minima is an object-oriented, imperative scripting language focused on being practical and pragmatic. Minima aims to be simple, easy to write, yet powerful enough to create readable, performant and concise code for any problem
+
 ** [[https://github.com/dafny-lang/dafny][Dafny]]
 Dafny is a programming language with a program verifier. As you type in your program, the verifier constantly looks over your shoulders and flags any errors.
 
