@@ -258,6 +258,13 @@ and the web.
 
 Orion is a high level, purely functional programming language with a LISP based syntax
 
+** [[https://github.com/bad-antics/lateralus-lang][Lateralus]]
+
+Lateralus is a pipeline-native programming language with a register-based VM, C backend for native compilation, its own assembly format (LTasm), and bare-metal OS support. Features first-class pipeline operators (|>), async/await, pattern matching, and a rich module system.
+
+- Repo: https://github.com/bad-antics/lateralus-lang
+- VS Code Extension: https://marketplace.visualstudio.com/items?itemName=lateralus.lateralus-lang
+
 ** [[https://loda-lang.org/][Loda]]
 
 #+BEGIN_HTML
