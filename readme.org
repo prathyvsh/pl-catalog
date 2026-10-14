@@ -136,6 +136,15 @@ A graph-oriented live coding language written in Rust.
 
 Website: https://glicol.org
 
+** [[https://github.com/kimjooyoon/meta-ontology-go][Gooo]]
+
+Gooo is an experimental language with =.gooo= source files and a compiler written in Go. It uses entity and activity declarations, supports source-declared assembly choices, and generates Go for supported activity bodies.
+
+- [[https://github.com/kimjooyoon/meta-ontology-go#try-a-working-gooo-program][Getting started]]
+- [[https://kimjooyoon.github.io/gooo-go-ports/tutorial.html][Interactive browser example]]
+
+The browser example runs a fixed, precompiled Gooo → Go → WebAssembly program with editable inputs; it does not compile arbitrary source.
+
 ** [[https://github.com/ffwff/hana][Hana]]
 A small dynamically-typed scripting language written in Rust/C and is inspired by Pascal, Ruby and Javascript.
 
