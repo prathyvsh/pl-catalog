@@ -188,6 +188,10 @@ The sona programming language is a 14 token language with a ~ minimal (1000 char
 ** [[https://github.com/souffle-lang/souffle][Souffle]]
 Soufflé is a variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthesizes a native parallel C++ program from a logic specification.
 
+** [[https://github.com/sebin-gg/slowlang][SlowLang]]
+SlowLang is a Python-like esoteric language with a Tkinter IDE that enforces slow typing — exceed the speed limit and an angry turtle ASCII takes over the screen with haiku-formatted error messages. Winner of TinkerHub's "Useless Projects" hackathon.
+Docs: https://esolangs.org/wiki/SlowLang
+
 ** [[https://github.com/vtereshkov/umka-lang][Umka]]
 Umka is a statically typed embeddable scripting language. It combines the simplicity and flexibility needed for scripting with a compile-time protection against type errors. Its aim is to follow the Python Zen principle /Explicit is better than implicit/ more consistently than dynamically typed languages generally do.
 
